@@ -1,7 +1,9 @@
 📊 Power BI Projects
+
 A collection of interactive dashboards built using Microsoft Power BI, aimed at visualizing and analyzing real-world datasets for actionable business insights.
 
 📁 Projects Included
+
 🎬 Netflix Dashboard
 Visualizes content trends across years, genres, and countries.
 
@@ -10,6 +12,7 @@ Analyzes ratings distribution, production volumes, and release timelines.
 Helps understand what types of content perform best over time.
 
 🧠 IBM HR Analytics Dashboard
+
 Examines employee demographics, attrition trends, and job satisfaction.
 
 Identifies key factors behind employee turnover and retention.
@@ -17,6 +20,7 @@ Identifies key factors behind employee turnover and retention.
 Built for HR stakeholders to make informed workforce decisions.
 
 🧰 Tools & Technologies
+
 Power BI Desktop
 
 DAX (Data Analysis Expressions)
